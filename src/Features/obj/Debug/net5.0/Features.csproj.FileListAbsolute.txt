@@ -1,0 +1,12 @@
+C:\Estudo\Teste\src\Features\bin\Debug\net5.0\Features.deps.json
+C:\Estudo\Teste\src\Features\bin\Debug\net5.0\Features.dll
+C:\Estudo\Teste\src\Features\bin\Debug\net5.0\ref\Features.dll
+C:\Estudo\Teste\src\Features\bin\Debug\net5.0\Features.pdb
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.csprojAssemblyReference.cache
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.dll
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\ref\Features.dll
+C:\Estudo\Teste\src\Features\obj\Debug\net5.0\Features.pdb

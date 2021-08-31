@@ -1,0 +1,12 @@
+C:\Estudo\Teste\src\Demostracao\Demostracao\bin\Debug\net5.0\Demostracao.deps.json
+C:\Estudo\Teste\src\Demostracao\Demostracao\bin\Debug\net5.0\Demostracao.dll
+C:\Estudo\Teste\src\Demostracao\Demostracao\bin\Debug\net5.0\ref\Demostracao.dll
+C:\Estudo\Teste\src\Demostracao\Demostracao\bin\Debug\net5.0\Demostracao.pdb
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.csprojAssemblyReference.cache
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.AssemblyInfoInputs.cache
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.AssemblyInfo.cs
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.csproj.CoreCompileInputs.cache
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.dll
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\ref\Demostracao.dll
+C:\Estudo\Teste\src\Demostracao\Demostracao\obj\Debug\net5.0\Demostracao.pdb
